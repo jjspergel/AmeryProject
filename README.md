@@ -1,4 +1,7 @@
 # AmeryProject
+
+https://mybinder.org/v2/gh/jjspergel/AmeryProject/master
+
 Julian Spergel's repository for RCES final project on the climate of the Amery Ice Shelf
 
 
