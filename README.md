@@ -12,9 +12,7 @@ Data:
 Link: https://www.ncei.noaa.gov/data/avhrr-reflectance-cloud-properties-patmos-extended/access/
 2. Automatic Weather station data from Amery G3 (70°53'31''S,	69°52'21''E): Hourly average air temperature, wind, and humidity data (1999-2018). Format: NetCDF file
 Link:http://aws.acecrc.org.au/data/AmeryG3_antarctic_aws_1999_2017.nc
-3. Davis Station (68.5762° S, 77.9696° E) temperature record: Daily minimum and maximum temperatures from Davis Station's automatic weather station (March 1969 - present). Format: XLS 
-Link: Downloaded through a form, http://www.bom.gov.au/climate/data/
-4. Mapped seasonal lake surface area from 1974-2018: I used remotely-sensed images to map the extents of supraglacial lakes on the Amery Ice Shelf. Format: ShapeFile
+3. Mapped seasonal lake surface area from 1974-2018: I used remotely-sensed images to map the extents of supraglacial lakes on the Amery Ice Shelf. Format: ShapeFile
 
 Summary of Analysis:
 
