@@ -19,7 +19,7 @@ Link: Downloaded through a form, http://www.bom.gov.au/climate/data/
 Summary of Analysis:
 
 1. I will calculate a climatology for the Amery Ice Shelf, calculating average seasonal temperatures and anomalies, and average seasonal cloud fraction and anomalies. 
-2. The peak annual surface area of the supraglacial lakes will be correlated to the averages of austal summer cloud fraction data, austral summer temperature data, and average calculated sensible heat (wind and temperature-based bulk heat transfer).
-3. I have zoned the lakes on the Amery Ice Shelf into several "basins" based on observed stream networks during two decades, and I would like to calculate the sensitivity to each individual basin to changes in temperature and in cloud cover. 
+2. The peak annual surface area of the supraglacial lakes will be correlated to the averages of austal summer cloud fraction data and austral summer temperature data.
+
 
   
